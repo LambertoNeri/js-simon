@@ -3,3 +3,25 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 10rem;
+}
+
+span{
+    font-size: 3rem;
+    color: red;
+}
+
+p{
+    margin-top: 5rem;
+    font-size: 3rem;
+}
+
+h1{
+    font-size: 3rem;
+}
